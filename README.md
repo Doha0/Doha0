@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 <h2>👋 Hello, I'm Doha</h2>
-<br>🌱 I’m currently learning Next.JS<br>
+<br>🌱 I’m currently learning Next.JS
 <br>👯 I’m looking to collaborate on ReactJS based web project
 <br>🤝 I’m looking for web based opportunities 
 <br>💬 Ask me about anything you want to know about me 😉
