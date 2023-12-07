@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Doha0&icon=0&color=8)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Doha0&icon=0&color=8)](https://visitcount.itsvg.in) -->
 
 ### Greetings 👋
 # I'm Doha
