@@ -2,6 +2,14 @@
 <img src="Images/banner.webp" />
 </a>
 
+## :chart_with_upwards_trend: Current Stats
+
+<p align="center">
+      <img
+        width="60%"
+        src="https://github-readme-streak-stats.herokuapp.com?user=doha0&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=1742FF&sideLabels=11FFFF&currStreakNum=ffffff&ring=1742FF&currStreakLabel=1742FF&sideNums=11FFFF"
+      />
+</p>
 <!-- [![](https://visitcount.itsvg.in/api?id=Doha0&icon=0&color=8)](https://visitcount.itsvg.in) -->
 
 ### Greetings 👋
@@ -45,7 +53,7 @@ Here are some ideas to get you started:
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Doha0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Doha0&theme=dark&hide_border=false)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Doha0&theme=dark&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Doha0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 <!-- ## 🏆 GitHub Trophies
