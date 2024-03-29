@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/doha0/">
-<img src="Images/banner.jpg" />
+<img src="Images/banner.webp" />
 </a>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=Doha0&icon=0&color=8)](https://visitcount.itsvg.in) -->
