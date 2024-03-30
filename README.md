@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/doha0/">
+<a href="https://www.linkedin.com/in/gifarydoha/">
 <img src="/Images/banner.webp" />
 </a>
 
@@ -15,22 +15,33 @@
 
 <br>
 <p align="center">
-<img style="margin-right: 30px" src="/Images/Icons/HTML.png"/>
-<img style="margin-right: 30px" src="/Images/Icons/css.png"/>
-<img style="margin-right: 30px" src="/Images/Icons/JavaScript.png"/>
-<img style="margin-right: 30px" src="/Images/Icons/cpp.png"/>
+<img src="/Images/Icons/HTML.png"/>
+<img src="/Images/Icons/css.png"/>
+<img src="/Images/Icons/JavaScript.png"/>
+<img src="/Images/Icons/cpp.png"/>
 <img src="/Images/Icons/react.png"/>
 </p>
 <p align="center">
-<img style="margin-right: 30px" src="/Images/Icons/tailwind.png"/>
-<img style="margin-right: 30px" src="/Images/Icons/nextjs.png"/>
-<img style="margin-right: 30px" src="/Images/Icons/node.png"/>
-<img style="margin-right: 30px" src="/Images/Icons/express.png"/>
+<img src="/Images/Icons/tailwind.png"/>
+<img src="/Images/Icons/nextjs.png"/>
+<img src="/Images/Icons/node.png"/>
+<img src="/Images/Icons/express.png"/>
 <img src="/Images/Icons/mongo.png"/>
 </p>
 <p align="center">
-<img style="margin-right: 30px" src="/Images/Icons/Bootsrap.png"/>
-<img style="margin-right: 30px" src="/Images/Icons/redux.png"/>
-<img style="margin-right: 30px" src="/Images/Icons/git.png"/>
+<img src="/Images/Icons/Bootsrap.png"/>
+<img src="/Images/Icons/redux.png"/>
+<img src="/Images/Icons/git.png"/>
 <img src="/Images/Icons/firebase.png"/>
 </p><br/>
+
+## :mobile: Connect with me:
+
+<p align="center">
+
+<a href = "https://www.facebook.com/gifarydoha/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
+<a href = "https://www.linkedin.com/in/gifarydoha/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/gifarydoha/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "mailto:abu.jardoha@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
+
+</p>
