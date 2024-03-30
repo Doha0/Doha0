@@ -26,11 +26,11 @@
 <img src="/images/icons/nextjs.png"/>
 <img src="/images/icons/node.png"/>
 <img src="/images/icons/express.png"/>
-<img src="/images/icons/redux.png"/>
+<img src="/images/icons/mongo.png"/>
 </p>
 <p align="center">
 <img src="/images/icons/Bootsrap.png"/>
-<img src="/images/icons/mongo.png"/>
+<img src="/images/icons/redux.png"/>
 <img src="/images/icons/git.png"/>
 <img src="/images/icons/firebase.png"/>
 </p><br/>
