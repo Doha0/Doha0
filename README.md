@@ -35,13 +35,18 @@
 <img src="/Images/Icons/firebase.png"/>
 </p><br/>
 
-## :mobile: Connect with me:
+## :iphone: Connect with me:
 
 <p align="center">
-
-<a href = "https://www.facebook.com/gifarydoha/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
-<a href = "https://www.linkedin.com/in/gifarydoha/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/gifarydoha/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "mailto:abu.jardoha@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
-
+<a href = "https://www.facebook.com/gifarydoha/">
+<img src="https://img.icons8.com/fluency/48/000000/facebook.png"/>
+</a>
+<a href = "https://www.linkedin.com/in/gifarydoha/">
+<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+</a>
+<a href = "https://www.instagram.com/gifarydoha/">
+<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+</a>
+<a href = "mailto:abu.jardoha@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
+</a>
 </p>
