@@ -7,8 +7,21 @@
 <p align="center">
       <img
         width="60%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=doha0&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=1742FF&sideLabels=11FFFF&currStreakNum=ffffff&ring=1742FF&currStreakLabel=1742FF&sideNums=11FFFF"
+        src="https://github-readme-streak-stats.herokuapp.com?user=gifarydoha&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=1742FF&sideLabels=11FFFF&currStreakNum=ffffff&ring=1742FF&currStreakLabel=1742FF&sideNums=11FFFF"
       />
+</p>
+
+## :iphone: Connect with me:
+
+<p align="center">
+<a href = "https://www.facebook.com/gifarydoha/">
+<img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
+<a href = "https://www.linkedin.com/in/gifarydoha/">
+<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/gifarydoha/">
+<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "mailto:abu.jardoha@gmail.com">
+<img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 </p>
 
 ## :computer: Tools & Technologies
@@ -34,19 +47,3 @@
 <img src="/Images/Icons/git.png"/>
 <img src="/Images/Icons/firebase.png"/>
 </p><br/>
-
-## :iphone: Connect with me:
-
-<p align="center">
-<a href = "https://www.facebook.com/gifarydoha/">
-<img src="https://img.icons8.com/fluency/48/000000/facebook.png"/>
-</a>
-<a href = "https://www.linkedin.com/in/gifarydoha/">
-<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a>
-<a href = "https://www.instagram.com/gifarydoha/">
-<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
-</a>
-<a href = "mailto:abu.jardoha@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
-</a>
-</p>
