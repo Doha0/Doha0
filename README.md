@@ -15,22 +15,22 @@
 
 <br>
 <p align="center">
-<img style="margin-right: 10px" src="/Images/Icons/HTML.png"/>
-<img style="margin-right: 10px" src="/Images/Icons/css.png"/>
-<img style="margin-right: 10px" src="/Images/Icons/JavaScript.png"/>
-<img style="margin-right: 10px" src="/Images/Icons/cpp.png"/>
+<img style="margin-right: 30px" src="/Images/Icons/HTML.png"/>
+<img style="margin-right: 30px" src="/Images/Icons/css.png"/>
+<img style="margin-right: 30px" src="/Images/Icons/JavaScript.png"/>
+<img style="margin-right: 30px" src="/Images/Icons/cpp.png"/>
 <img src="/Images/Icons/react.png"/>
 </p>
 <p align="center">
-<img style="margin-right: 10px" src="/Images/Icons/tailwind.png"/>
-<img style="margin-right: 10px" src="/Images/Icons/nextjs.png"/>
-<img style="margin-right: 10px" src="/Images/Icons/node.png"/>
-<img style="margin-right: 10px" src="/Images/Icons/express.png"/>
+<img style="margin-right: 30px" src="/Images/Icons/tailwind.png"/>
+<img style="margin-right: 30px" src="/Images/Icons/nextjs.png"/>
+<img style="margin-right: 30px" src="/Images/Icons/node.png"/>
+<img style="margin-right: 30px" src="/Images/Icons/express.png"/>
 <img src="/Images/Icons/mongo.png"/>
 </p>
 <p align="center">
-<img style="margin-right: 10px" src="/Images/Icons/Bootsrap.png"/>
-<img style="margin-right: 10px" src="/Images/Icons/redux.png"/>
-<img style="margin-right: 10px" src="/Images/Icons/git.png"/>
+<img style="margin-right: 30px" src="/Images/Icons/Bootsrap.png"/>
+<img style="margin-right: 30px" src="/Images/Icons/redux.png"/>
+<img style="margin-right: 30px" src="/Images/Icons/git.png"/>
 <img src="/Images/Icons/firebase.png"/>
 </p><br/>
