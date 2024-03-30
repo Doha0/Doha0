@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/doha0/">
-<img src="/images/banner.webp" />
+<img src="/Images/banner.webp" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
@@ -15,22 +15,22 @@
 
 <br>
 <p align="center">
-<img src="/images/icons/HTML.png"/>
-<img src="/images/icons/css.png"/>
-<img src="/images/icons/JavaScript.png"/>
-<img src="/images/icons/cpp.png"/>
-<img src="/images/icons/react.png"/>
+<img src="/Images/Icons/HTML.png"/>
+<img src="/Images/Icons/css.png"/>
+<img src="/Images/Icons/JavaScript.png"/>
+<img src="/Images/Icons/cpp.png"/>
+<img src="/Images/Icons/react.png"/>
 </p>
 <p align="center">
-<img src="/images/icons/tailwind.png"/>
-<img src="/images/icons/nextjs.png"/>
-<img src="/images/icons/node.png"/>
-<img src="/images/icons/express.png"/>
-<img src="/images/icons/mongo.png"/>
+<img src="/Images/Icons/tailwind.png"/>
+<img src="/Images/Icons/nextjs.png"/>
+<img src="/Images/Icons/node.png"/>
+<img src="/Images/Icons/express.png"/>
+<img src="/Images/Icons/mongo.png"/>
 </p>
 <p align="center">
-<img src="/images/icons/Bootsrap.png"/>
-<img src="/images/icons/redux.png"/>
-<img src="/images/icons/git.png"/>
-<img src="/images/icons/firebase.png"/>
+<img src="/Images/Icons/Bootsrap.png"/>
+<img src="/Images/Icons/redux.png"/>
+<img src="/Images/Icons/git.png"/>
+<img src="/Images/Icons/firebase.png"/>
 </p><br/>
