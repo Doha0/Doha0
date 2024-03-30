@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/doha0/">
-<img src="images/banner.webp" />
+<img src="/images/banner.webp" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
@@ -15,24 +15,24 @@
 
 <br>
 <p align="center">
-<img src="images/icons/HTML.png"/>
-<img src="images/icons/css.png"/>
-<img src="images/icons/JavaScript.png"/>
-<img src="images/icons/cpp.png"/>
-<img src="images/icons/react.png"/>
+<img src="/images/icons/HTML.png"/>
+<img src="/images/icons/css.png"/>
+<img src="/images/icons/JavaScript.png"/>
+<img src="/images/icons/cpp.png"/>
+<img src="/images/icons/react.png"/>
 </p>
 <p align="enter">
-<img src="images/icons/tailwind.png"/>
-<img src="images/icons/nextjs.png"/>
-<img src="images/icons/node.png"/>
-<img src="images/icons/express.png"/>
-<img src="images/icons/redux.png"/>
+<img src="/images/icons/tailwind.png"/>
+<img src="/images/icons/nextjs.png"/>
+<img src="/images/icons/node.png"/>
+<img src="/images/icons/express.png"/>
+<img src="/images/icons/redux.png"/>
 </p>
 <p align="center">
-<img src="images/icons/Bootsrap.png"/>
-<img src="images/icons/mongo.png"/>
-<img src="images/icons/git.png"/>
-<img src="images/icons/firebase.png"/>
+<img src="/images/icons/Bootsrap.png"/>
+<img src="/images/icons/mongo.png"/>
+<img src="/images/icons/git.png"/>
+<img src="/images/icons/firebase.png"/>
 </p><br/>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=Doha0&icon=0&color=8)](https://visitcount.itsvg.in) -->
